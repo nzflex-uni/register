@@ -1,6 +1,11 @@
 {
+  "description": "Add some description",
+  "repo": "https://github.com/nzflex-uni",
   "owner": {
     "username": "nzflex-uni",
-    "email": "willodean02@xjltaxesiw.com"
+    "email": "i0e558t99@mozmail.com"
+  },
+  "record": {
+    "CNAME": "dev.actix.digital"
   }
 }
